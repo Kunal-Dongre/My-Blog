@@ -1,0 +1,28 @@
+body{
+    scroll-behavior: smooth;
+}
+
+.cf6{
+    
+}
+.category{
+    padding: 80px 0 0px 0;
+    font-size: 1.3rem;
+    color: #CD2653;
+    text-decoration: underline;
+}
+
+.titlehome{
+    font-size: 4rem;
+    font-weight: bolder;
+}
+
+.credits{
+    color: #6D6D6D;
+}
+
+.blogdesc{
+    width: 50%;
+    position: relative;
+    left: 26%;
+}
